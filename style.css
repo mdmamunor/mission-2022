@@ -77,9 +77,10 @@ p{
   margin-right: 250px;
 }
 .fourth-banner{
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left:100px;
+    padding-right:55px
+    ;
 }
-.second-bgc{
-    background-image:url(images/shapes/shape-1.png);
+.footer{
+    background-color:dimgray;
 }
