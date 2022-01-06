@@ -18,6 +18,7 @@ h1{
 .flexible-container{
     display: flex;
     margin-bottom: 150px;
+
 }
 .half-weith{
     width: 50%;
@@ -41,22 +42,23 @@ p{
     font-size: 20px;
 }
 #text{
-    margin-left: 50%;
+    text-align: center;
 }
 .class{
     display: flex;
-    margin-bottom: 150px;
+    width:90%;
+    height:444%;
+    
 }
 .color{
     color: orange;
 }
 .mission-item{
    
-   width: 22%;
-   margin-left: 5%;
+   width:22%;
+   margin-left: 11%;
    margin-right: 3%;
    padding-left: 5px;
    border-radius: 11px;
-   
-   box-shadow: 5px 5px 50px black;
+   box-shadow: 10px 10px 500px rgb(147, 7, 240);
 }
