@@ -21,17 +21,16 @@ h1{
 
 }
 .half-weith{
-    width: 50%;
+    width: 60%;
     padding-left: 5%;
 }
 .half-weith img{
     width: 80%;
 }
-.link-button{
+.button{
     text-decoration: none;
-    background-image:linear-gradient(orange,red);
+    background-image: linear-gradient(orange,tomato);
     padding: 15px 40px;
-    color: white;
     font-weight: 700;
     border-radius: 10px;
 }
@@ -40,6 +39,9 @@ h1{
 }
 p{
     font-size: 20px;
+}
+.mission-part{
+    margin-bottom: 150px;
 }
 #text{
     text-align: center;
@@ -61,4 +63,23 @@ p{
    padding-left: 5px;
    border-radius: 11px;
    box-shadow: 10px 10px 500px rgb(147, 7, 240);
+}
+.third-banner{
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+  
+}
+.image{
+    margin-left:22%;
+}
+.third-banner-p{
+    width:40%;
+  margin-right: 250px;
+}
+.fourth-banner{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.second-bgc{
+    background-image:url(images/shapes/shape-1.png);
 }
